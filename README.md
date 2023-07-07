@@ -2,6 +2,8 @@
 
 Programa responsável pela busca de usuários do GitHub utilizando a própria API da plataforma, insira o nome do usuário e veja seus dados de usuário, foto de perfil, localização, quantidade de seguidores. Programa feito com React e integração com API. 
 
+Faça sua busca digitando o nome do usuário e clicando em enter, ou pelo método comum clicando na lupa de pesquisa.
+
 Tela inicial: 
 ![Tela Inicial](https://github.com/edersonabreu/github-finder/assets/29956737/f0bcf76f-2e0f-4c1e-bfce-69ff1d847bc9)
 
